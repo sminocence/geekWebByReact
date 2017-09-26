@@ -1,0 +1,19 @@
+.member_photos{
+    width: 1040px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.member_photos .member_photo{
+    width: 100px;
+    height: 150px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    float: left;
+    list-style: none;
+    cursor: pointer;
+}
+.memberImg{
+    width: 100px;
+    height: 150px;
+}

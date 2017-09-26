@@ -1,0 +1,23 @@
+.introWords{
+    margin: 0 auto;
+    width: 80%;
+    height: 300px;
+}
+.introImg{
+    float: left;
+    width:400px;
+    height: 300px;
+
+}
+.Homefont{
+    float:left;
+    margin-left:80px;
+    margin-top:20px;
+    width:650px;
+    height:350px;
+    font-family:微软雅黑;
+    font-size:18px;
+    color:#333;
+    overflow:hidden;
+    /*background:#ccc;*/
+}
