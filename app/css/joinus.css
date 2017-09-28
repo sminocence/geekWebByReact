@@ -1,0 +1,89 @@
+.joinus_content{
+    width: 900px;
+    height: 330px;
+    margin: 0 auto;
+    margin-top: 89px;
+}
+.joinus_Lcontent{
+    width: 530px;
+    height: 300px;
+    float: left;
+    position: relative;
+}
+.joinus_Lcontent li{
+    list-style: none;
+    margin-bottom: 23px;
+}
+.joinus_Lcontent .join_info{
+    font-size: 18px;
+    font-weight: 400;
+    color: #808080;
+}
+.joinus_Lcontent .join_info:hover{
+    color: #6093e7;
+}
+.joinus_Lcontent .text{
+    width: 253px;
+    height: 35px;
+    border: 1px solid #BDBDFF;
+    font-size: 13px;
+    margin-left: 22px;
+    color: #808080;
+    text-align: left;
+}
+.joinus_Lcontent #spinfo{
+    width: 150px;
+    height: 34px;
+    float: right;
+    margin-right: 50px;
+    font-weight: 200;
+    font-size: 12px;
+}
+.joinus_Lcontent .submit{
+    width: 240px;
+    height: 40px;
+    float: left;
+    margin-left: 65px;
+}
+.joinus_Lcontent .sub{
+    width: 79px;
+    height: 30px;
+    background-color: #6093e7;
+    color: #ffffff;
+    font-size: 16px;
+    border:none;
+    margin-right: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+/*.joinus_cover{
+    position: absolute;
+    width: 530px;
+    height: 300px;
+    top: 0;
+    left: 0;
+    background: #6093e7;
+    opacity: 0.5;
+}
+.joinus_cover h2{
+    text-align: center;
+    line-height: 300px;
+}*/
+.joinus_Rigcontent{
+    width: 240px;
+    height: 280px;
+    margin: 0 auto;
+    float: left;
+    margin-left: 72px;
+}
+.joinus_Rigcontent img{
+    width: 240px;
+    height: 240px;
+}
+/*扫描二维码*/
+.joinus_code{
+    font-size: 17px;
+    color: #808080;
+    margin: 0 auto;
+    text-align: center;
+}

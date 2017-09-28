@@ -8,7 +8,7 @@ class Separate extends Component{
     render(){
         return(
             <div className="separate">
-                <div className="sectionDivider">
+                <div className="sectionDivider" id={this.props.id}>
                     <h2 id="servicestitle">{this.props.dividerTitle}</h2>
                     <a id="portfolio" className="sroll"></a>
                 </div>
