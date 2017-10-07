@@ -5,7 +5,7 @@ class Header extends Component{
      render(){
             return(
                 <div id="Logonav" className="Logonav">
-                    <a href="#pictrue"><img src={logoImg} /></a>
+                    <a href="#Home_describe"><img src={logoImg} /></a>
                     <ul className="nav">
                         <li><a href="#Home_describe">工作室简介</a></li>
                         <li><a href="#member_describe">成员介绍</a></li>
