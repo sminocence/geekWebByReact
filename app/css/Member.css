@@ -7,8 +7,7 @@
 .member_photos .member_photo{
     width: 100px;
     height: 150px;
-    margin-right: 10px;
-    margin-bottom: 5px;
+    margin: 260px 10px 5px 0;
     float: left;
     list-style: none;
     cursor: pointer;

@@ -5,7 +5,7 @@ import gaox from '../../img/1.jpg';
 import huangj from '../../img/2.jpg';
 import liuq from '../../img/3.jpg';
 import zengqz from '../../img/4.jpg';
-
+import Header from '../header/Header';
 class Member extends Component{
     // constructor(props){
     //     super(props);
@@ -24,21 +24,18 @@ class Member extends Component{
     render(){
         return(
             <div className="member_photos">
+                <Header />
                 <li className="member_photo"> 
                     <MemberImg name={gaox} />
-                    <MemberIntro name={this.props.names[0]} />
                 </li>
                 <li className="member_photo"> 
                     <MemberImg name={huangj} />
-                    <MemberIntro name={this.props.names[1]} />
                 </li>
                 <li className="member_photo"> 
                     <MemberImg name={liuq} />
-                    <MemberIntro name={this.props.names[2]} />
                 </li>
                 <li className="member_photo"> 
                     <MemberImg name={zengqz} />
-                    <MemberIntro name={this.props.names[3]} />
                 </li>
             </div>
         );

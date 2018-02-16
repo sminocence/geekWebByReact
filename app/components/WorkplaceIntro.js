@@ -1,8 +1,9 @@
 import React,{Component} from 'react';
 import introImg from '../img/introImg.jpg';
+import Header from './header/Header';
 class WorkplaceIntro extends Component{
     render(){
-        return(
+        return(               
             <div className="introWords">
                 <img src={introImg} className="introImg"/>
                 <p className="Homefont">

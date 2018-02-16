@@ -1,5 +1,6 @@
 .introWords{
     margin: 0 auto;
+    margin-top: 260px;
     width: 80%;
     height: 300px;
 }
@@ -7,7 +8,6 @@
     float: left;
     width:400px;
     height: 300px;
-
 }
 .Homefont{
     float:left;
