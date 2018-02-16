@@ -52,3 +52,10 @@ render(<HashRouter history={hashHistory}>
       </HashRouter>, document.getElementById('root'));
 
 ```
+
+##项目运行
+需要node环境和npm包管理工具
+- npm install安装依赖模块
+- npm start进行项目打包
+- npm run server（运行使用webpack搭建的本地服务器）
+- 在浏览器中输入localhost:8080即可看到页面
