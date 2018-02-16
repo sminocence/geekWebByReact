@@ -3,7 +3,7 @@
 这段时间在学习React，也了解了React的一些核心思想，比如组件化开发，单向数据流，虚拟DOM等。
 所以自己也做个小栗子来练练手，就重构了geek官网
 
-##主要功能
+## 主要功能
 
 - 工作室简介
 
@@ -13,12 +13,12 @@
 
 - 加入我们
 
-##项目概述
+## 项目概述
 - React.js，ECMAScript6进行组件开发
 - 使用React-Router实现路由管理，实现单页应用
 - 构建工具使用Webpack进行打包
 
-##遇到的问题
+## 遇到的问题
 
 1.在用React-Router实现路由管理时，react-router安装时，出现npm install Error: EPERM: operation not permitted, symlink ...
 
@@ -53,7 +53,7 @@ render(<HashRouter history={hashHistory}>
 
 ```
 
-##项目运行
+## 项目运行
 需要node环境和npm包管理工具
 - npm install安装依赖模块
 - npm start进行项目打包
